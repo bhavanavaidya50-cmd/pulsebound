@@ -1,0 +1,18 @@
+{
+  "name": "pulsebound",
+  "private": true,
+  "version": "1.0.0",
+  "description": "PULSEBOUND: The Hidden Path - A 2D Neon Puzzle Platformer built with Phaser 3 & Vite",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "phaser": "^3.87.0"
+  },
+  "devDependencies": {
+    "vite": "^5.4.11"
+  }
+}
